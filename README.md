@@ -1,7 +1,7 @@
 # Electricity Bill Management System (PL/SQL)
 
 ## Project created by:
-**Siddhesh Khairnar**  
+**Siddhesh Suresh Khairnar**  
 Student of Amrutvahini College Of Engineering, T.E Computer Engineering Department  
 (under Zensar Python and SQL Training)
 
